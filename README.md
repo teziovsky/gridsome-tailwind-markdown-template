@@ -2,8 +2,6 @@
 
 > A Gridsome with Tailwind CSS starter template.
 
-## [Demo](https://jakubsoboczynski.pl)
-
 ## Run locally
 
 Create the project from this template
